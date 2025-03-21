@@ -1,0 +1,20 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore log files
+*.log
+
+# Ignore target directory (for Maven/Gradle)
+target/
+build/
+
+# Ignore local configuration files
+*.properties
+*.db
